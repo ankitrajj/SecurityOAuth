@@ -9,10 +9,6 @@ It includes integration with third-party identity providers (like Google, GitHub
 
 - Secure REST APIs using OAuth2
 - Login via external providers (Google, GitHub, etc.)
-- JWT (JSON Web Token) integration
-- Role-based Authorization (Admin/User)
-- Refresh token support
-- Spring Security 6 & OAuth2 Resource Server
 - Exception handling for unauthorized/forbidden access
 - Centralized security configuration
 
